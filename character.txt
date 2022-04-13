@@ -1,0 +1,4 @@
+The characters that we have trained are model on are as follows:-
+1 2 3 4 5 6 7
+A D E F H N P R S T U Z
+a d e h n r t
